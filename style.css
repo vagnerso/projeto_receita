@@ -35,7 +35,7 @@ main {
 section + section {
     margin-top: 24px;
 }
-
+ 
 #about p + p {
     margin-top: 12px;
 }
