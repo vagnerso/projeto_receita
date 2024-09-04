@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url(assets/bg-image.jpg);
+    background-color: #3b5430;
     background-size: cover;
 }
 
@@ -25,6 +25,7 @@ body {
 
 img {
     border-radius: 16px;
+    width: 752px;
 }
 
 main {
